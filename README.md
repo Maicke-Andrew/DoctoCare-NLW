@@ -1,4 +1,4 @@
-###O Projeto
+### Projeto DoctorCare
 
 Projeto desenvolvido em conjunto com uma Dev Week feito pela RocketSeat, durante a semana desenvolvemos juntos esse projeto!
 
